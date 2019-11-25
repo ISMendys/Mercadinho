@@ -1,0 +1,147 @@
+
+        #agua{
+            background: rgba(41, 82, 218, 0.521);
+            border-radius: 10px;
+            padding: 15px;
+            width: 100px;
+            height: 100px;
+            float: left;
+
+        } 
+        #refri{
+            background: rgba(41, 82, 218, 0.521);
+            border-radius: 10px;
+            padding: 15px;
+            width: 100px;
+            height: 100px;
+            float: left;
+        }
+        #skol{
+            background: rgba(41, 82, 218, 0.521);
+            border-radius: 10px;
+            padding: 15px;
+            width: 100px;
+            height: 100px;
+            float: left;
+        }
+
+        #login{
+            background:  rgba(255, 255, 255, 0.753);
+            border-radius: 10px;
+            padding: 15px;
+            width: 430px;
+            height: 450px;
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.418);
+            
+            color: rgb(255, 94, 0);
+            font: normal 20px Arial bold;
+            margin: auto;
+        }
+        #agua:hover {
+            border-top-color: #28597a;
+            color: #ccc;
+            }
+        #agua:active {
+            border-top-color: #f0f0f0;
+            background: #4c00ff;
+        }
+        #refri:hover {
+            border-top-color: #28597a;
+            color: #ccc;
+        }
+        #refri:active {
+            border-top-color: #f0f0f0;
+            background: #4c00ff;
+        }
+        #skol:hover {
+            border-top-color: #28597a;
+            color: #ccc;
+        }
+        #skol:active {
+            border-top-color: #f0f0f0;
+            background: #4c00ff;
+        }
+        #fora{
+            font: bold 25px Arial;
+            color: white;
+            text-align: center;
+        }
+        #quant{
+            width: 30px;
+            height: 20px;
+        }
+        #prdt{
+            border-radius:12px;
+            width: 200px;
+        }
+        #val{
+            border-radius:8px;
+            width: 50px;
+            height: 20px;
+        }
+        #btnagua{
+            left: 100px;    
+        }
+        #epc{
+            padding: 3px;
+            height: 1px;
+            float: left;
+        }
+        #epc2{
+            padding: 25px;
+            height: 1px;
+            float: left;
+        }
+        #btn{
+            box-shadow: 0px 1px 0px 0px #fff6af;
+            background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+            background-color:#ffec64;
+            border-radius:6px;
+            border:1px solid #ffaa22;
+            display:inline-block;
+            cursor:pointer;
+            color:#333333;
+            font-family:Arial;
+            font-size:15px;
+            font-weight:bold;
+            padding:6px 24px;
+            text-decoration:none;
+            text-shadow:0px 1px 0px #ffee66;
+        }
+        #btn:hover{
+            background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+            background-color:#ffab23;
+        }
+        #btn{
+            position:relative;
+            top:10px;
+        }
+        #voltar{
+            margin: left;
+            width: 0px;
+        }
+
+        #carrinho{
+            float: right;
+        }
+        #validar{
+            background-color:#f0993c;
+            border-radius:28px;
+            border:1px solid #ffff00;
+            display:inline-block;
+            cursor:pointer;
+            color:#ffffff;
+            font-family:Arial;
+            font-size:17px;
+            padding:5px 9px;
+            text-decoration:none;
+            text-shadow:0px 1px 0px #2f6627;
+        }
+        #validar:hover {
+            background-color:#000000;
+        }
+        #validar:active {
+            position:relative;
+            top:1px;
+        }
+        
